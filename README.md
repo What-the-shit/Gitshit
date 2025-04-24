@@ -1,2 +1,2 @@
 # Gitshit
-isso daí é um Gitlab própio
+o gitlab da Victor 
