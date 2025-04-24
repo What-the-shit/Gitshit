@@ -1,2 +1,2 @@
 # Gitshit
-Um Gitlab para loucos
+isso daí é um Gitlab própio
